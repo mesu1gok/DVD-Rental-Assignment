@@ -1,5 +1,5 @@
-## Assignment 1: DVDRental Queries
-## Description: Basic PostgreSQL queries for Patika.dev course
+# Assignment 1: DVDRental Queries
+# Description: Basic PostgreSQL queries for Patika.dev course
 
 # 1) 
 SELECT title, description FROM film;
