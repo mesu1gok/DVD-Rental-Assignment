@@ -1,5 +1,5 @@
 # Assignment 4: DVDRental Queries
-# Description: Basic PostgreSQL queries for Patika.dev course
+# Description: Basic PostgreSQL queries for Patika.dev course.
 
 # 1)
 SELECT DISTINCT replacement_cost FROM film;
