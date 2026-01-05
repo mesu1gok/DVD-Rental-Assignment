@@ -1,5 +1,5 @@
-# Assignment 7: DVDRental Queries
-# Description: Basic PostgreSQL queries for Patika.dev course
+# Assignment 7: DVDRental Queries.
+# Description: Basic PostgreSQL queries for Patika.dev course.
 
 # 1) 
 SELECT rating, COUNT (*) FROM film
